@@ -28,8 +28,8 @@
 - Patrones de arquitectura de software.
 
 ## 📊 Mis estadísticas en GitHub
-![Stats](https://github-readme-stats.vercel.app/api?OscarYaxB_icons=true&theme=default)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?OscarYaxB&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=OscarYaxB&show_icons=true&theme=default)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarYaxB&layout=compact)
 ## 📫 Contacto
 
 - Correo: [oscaryax2016@hotmail.com](mailto:oscaryax2016@hotmail.com)
