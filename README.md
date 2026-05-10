@@ -29,9 +29,8 @@
 
 ## 📊 Mis estadísticas en GitHub
 
-![Stats](https://vercel.app)
-![Lenguajes](https://vercel.app)
-
+![Estadísticas de Oscar](https://vercel.app)
+![Lenguajes de Oscar](https://vercel.app)
 ## 📫 Contacto
 
 - Correo: [oscaryax2016@hotmail.com](mailto:oscaryax2016@hotmail.com)
