@@ -27,16 +27,9 @@
 - Containerización con Docker.
 - Patrones de arquitectura de software.
 
+## 📊 Mi Actividad en GitHub
 
-## 📊 Mis estadísticas en GitHub
-
-<p align="left">
-  <img src="https://vercel.app" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" />
-</p>
+![Oscar's GitHub stats](https://vercel.app)
 
 ## 📫 Contacto
 
