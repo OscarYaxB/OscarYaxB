@@ -28,9 +28,8 @@
 - Patrones de arquitectura de software.
 
 ## 📊 Mis estadísticas en GitHub
-
-![Estadísticas de Oscar](https://vercel.app)
-![Lenguajes de Oscar](https://vercel.app)
+![Stats](https://github-readme-stats.vercel.app/api?OscarYaxB_icons=true&theme=default)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?OscarYaxB&layout=compact)
 ## 📫 Contacto
 
 - Correo: [oscaryax2016@hotmail.com](mailto:oscaryax2016@hotmail.com)
