@@ -27,6 +27,10 @@
 - Containerización con Docker.
 - Patrones de arquitectura de software.
 
+
+## 📊 Mis estadísticas en GitHub
+![Estadísticas de OscarYaxB ](https://vercel.app)
+
 ## 📫 Contacto
 
 - Correo: [Yaxoscar@umes.edu.gt.](mailto:Yaxoscar@umes.edu.gt)
