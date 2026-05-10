@@ -29,7 +29,14 @@
 
 
 ## 📊 Mis estadísticas en GitHub
-![Estadísticas de OscarYaxB ](https://vercel.app)
+
+<p align="left">
+  <img src="https://vercel.app" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" />
+</p>
 
 ## 📫 Contacto
 
