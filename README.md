@@ -23,9 +23,9 @@
 
 ## 📚 Aprendiendo actualmente
 
-- Diseño de APIs REST con FastAPI.
-- Containerización con Docker.
-- Patrones de arquitectura de software.
+- Algoritmos 
+- Gestion de versiones git y Git Hub 
+- Electricidad 
 
 ## 📊 Mi Actividad en GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=OscarYaxB&show_icons=true&theme=default)
