@@ -28,7 +28,7 @@
 - Electricidad 
 
 ## 📊 Mi Actividad en GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=OscarYaxB&show_icons=true&theme=default)
+![Estadísticas de Oscar](https://OscarYaxB)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarYaxB&layout=compact)
 
 
