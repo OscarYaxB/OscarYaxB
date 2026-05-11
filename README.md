@@ -29,9 +29,9 @@
 
 ## 📊 Mis estadísticas en GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OscarYaxB&show_icons=true&theme=default)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarYaxB&layout=compact)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OscarYaxB&show_icons=true&theme=tokyonight)
 
+![Lenguajes](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OscarYaxB&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 
