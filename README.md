@@ -27,8 +27,9 @@
 - Gestion de versiones git y Git Hub 
 - Electricidad 
 
-## 📊 Mi Actividad en GitHub
-![Estadísticas de GitHub](https://vercel.app)
+## 📊 Mis estadísticas en GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=OscarYaxB&show_icons=true&theme=default)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarYaxB&layout=compact)
 
 
