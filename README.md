@@ -1,5 +1,7 @@
 <h1 align="center">¡Hola! Soy Oscar Yax  👋</h1>
 
+
+## 🧑‍💻 EJERCICIO 10.1 
 <p align="center">
   Estudiante de Ingeniería en electronica — apasionado por circuitos electronicos , sistemas operativos y desarrollo de software.
 </p>
